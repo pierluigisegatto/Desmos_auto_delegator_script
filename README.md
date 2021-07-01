@@ -1,3 +1,5 @@
+![alt text](https://miro.medium.com/max/1024/1*F9kUdLASMZ5nmaOQX8lPvw.png)
+
 This folder contains the bash script for the auto management of a cosmos based validator node, such as Desmos. 
 In particular, this script, once correctly setup, will periodically withdraw commissions and rewards from the selected validator and will redelegate to the validator itself.
 
